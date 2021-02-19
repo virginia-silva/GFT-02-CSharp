@@ -1,0 +1,13 @@
+C:\Users\Virginia\Desktop\NET\gftstart02\bin\Debug\netcoreapp3.1\gftstart02.exe
+C:\Users\Virginia\Desktop\NET\gftstart02\bin\Debug\netcoreapp3.1\gftstart02.deps.json
+C:\Users\Virginia\Desktop\NET\gftstart02\bin\Debug\netcoreapp3.1\gftstart02.runtimeconfig.json
+C:\Users\Virginia\Desktop\NET\gftstart02\bin\Debug\netcoreapp3.1\gftstart02.runtimeconfig.dev.json
+C:\Users\Virginia\Desktop\NET\gftstart02\bin\Debug\netcoreapp3.1\gftstart02.dll
+C:\Users\Virginia\Desktop\NET\gftstart02\bin\Debug\netcoreapp3.1\gftstart02.pdb
+C:\Users\Virginia\Desktop\NET\gftstart02\obj\Debug\netcoreapp3.1\gftstart02.csprojAssemblyReference.cache
+C:\Users\Virginia\Desktop\NET\gftstart02\obj\Debug\netcoreapp3.1\gftstart02.AssemblyInfoInputs.cache
+C:\Users\Virginia\Desktop\NET\gftstart02\obj\Debug\netcoreapp3.1\gftstart02.AssemblyInfo.cs
+C:\Users\Virginia\Desktop\NET\gftstart02\obj\Debug\netcoreapp3.1\gftstart02.csproj.CoreCompileInputs.cache
+C:\Users\Virginia\Desktop\NET\gftstart02\obj\Debug\netcoreapp3.1\gftstart02.dll
+C:\Users\Virginia\Desktop\NET\gftstart02\obj\Debug\netcoreapp3.1\gftstart02.pdb
+C:\Users\Virginia\Desktop\NET\gftstart02\obj\Debug\netcoreapp3.1\gftstart02.genruntimeconfig.cache
