@@ -1,2 +1,2 @@
 # GFT-02-CSharp
-Exercício 02 C#
+Prova 02 C#
